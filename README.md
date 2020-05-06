@@ -1,3 +1,2 @@
 # Stepik-module3
-Homework
-https://flukeout.github.io/
+Homework, хочу выучить Selenium! Понравилась игрушка-практикум https://flukeout.github.io/
